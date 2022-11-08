@@ -11,4 +11,4 @@ Features
 
 ### Core Features ###
 + **Login**
-  Users will be able to create accounts and log in to the application.
+      Users will be able to create accounts and log in to the application.
