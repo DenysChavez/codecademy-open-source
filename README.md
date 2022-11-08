@@ -9,6 +9,6 @@ This app will be a one-stop shop for storing, sharing, and chronicling your amat
 Features
 -----
 
-###Core Features###
-+**Login**
+### Core Features ###
++ **Login**
   Users will be able to create accounts and log in to the application.
