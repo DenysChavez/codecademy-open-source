@@ -9,6 +9,20 @@ This app will be a one-stop shop for storing, sharing, and chronicling your amat
 Features
 -----
 
-### Core Features ###
-+ **Login**
-      Users will be able to create accounts and log in to the application.
++ **Login:** Users will be able to create accounts and log in to the application.
++ **Add Recipes:** Users will be able to add a new recipes
++ **Search Recipes:** Users will be able to search existing recipes by primary ingredient, style, or custom criteria
++ **List Recipes:** Auto-organization by primary ingredient, tags, etc
++ **Update Recipes:** Add comments, mark whether it has been made/did you like it?, etc.
+
+
+Technologies
+-----
++ Java
++ Spring Boot
++ MySQL
++ Hibernate
++ Thymeleaf Template
+
+
+**_Liftoff group project_**
